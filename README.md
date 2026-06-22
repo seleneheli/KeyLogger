@@ -11,3 +11,5 @@ I built this project purely for educational purposes in a controlled environment
 • Creates a cleaner text.txt file containing only actual text inputs instead of every key event.
 
 • Implements basic text-editing behavior by handling the Backspace key to erase previously typed characters.
+
+This keylogger stops logging keys only when the target/user presses the F10 key. This particular key has been deliberately selected because of how rarely it's used so as to reduce the chances of stopping the file once it starts running on the target's computer.
